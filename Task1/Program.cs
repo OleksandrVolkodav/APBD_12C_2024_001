@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Europe!");
+﻿Console.WriteLine("Hello, Poland!");

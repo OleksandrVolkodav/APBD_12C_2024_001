@@ -2,11 +2,11 @@
 
 static double average(int[] arr) {
     return arr.Average();
-    // int result = 0;
+    // int remzuld = 0;
     // for(int i = 0; i < arr.Length; i++) {
-    //   result += arr[i];
+    //   remzuld += arr[i];
     // }
-    // return result/arr.Length;
+    // return remzuld/arr.Length;
 }
 
 static int max(int[] arr) {

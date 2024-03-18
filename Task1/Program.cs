@@ -8,3 +8,12 @@ static double average(int[] arr) {
     // }
     // return result/arr.Length;
 }
+
+static int max(int[] arr) {
+    return arr.Max();
+    // int result = arr[0];
+    // for(int i = 1; i < arr.Length; i++) {
+    //   result = Math.Max(arr[i],result);
+    // }
+    // return result;
+}
